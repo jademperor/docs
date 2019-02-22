@@ -15,7 +15,7 @@ cd quick-start
 
 # prepare and start simple http api server
 go run pre/prepare.go
-go run pre/servers.go
+go run servers/servers.go
 
 # start gateway-manager and apiproxier
 cd bin/{platform}
@@ -71,6 +71,6 @@ curl -X GET http://localhost:9000/example/name
 
 ## Custom Plugin
 
-coming soon
+[click to redirect](https://https://github.com/jademperor/custom-plugin-demo)
 
 ## [Restful API Docs](./restful-api-docs.md)
