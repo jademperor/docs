@@ -1,5 +1,18 @@
 # API Gateway
 
+This is a lightweight API gateway project. To support:
+
+* Load balancing
+* Horizontal scaling (with ETCD work as configs sharing)
+* Rate limiting
+* Log middlware
+* Plugin extension mechanism
+* HTTP response cache
+* Restful API config
+* Standalone frontend project
+
+## Contents
+
 * [Quick start](#quick-start)
 * [Noun explanation](#noun-explanation)
 * [Installation](#installation)
