@@ -84,6 +84,6 @@ curl -X GET http://localhost:9000/example/name
 
 ## Custom Plugin
 
-[click to redirect](https://https://github.com/jademperor/custom-plugin-demo)
+[click to redirect](https://github.com/jademperor/custom-plugin-demo)
 
 ## [Restful API Docs](./restful-api-docs.md)
